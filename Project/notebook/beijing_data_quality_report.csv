@@ -1,0 +1,6 @@
+Metric,Value
+Total Rows,43800
+Duplicate Rows,14
+Missing PM2.5 (%),4.66%
+"Max Missing Month (Year, Month)","(np.int32(2010), np.int32(9)) (252 hours)"
+Max Consecutive Gap (hours),155
