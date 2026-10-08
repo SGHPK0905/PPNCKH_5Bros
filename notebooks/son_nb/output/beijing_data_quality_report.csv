@@ -1,0 +1,9 @@
+metric,value
+rows,43824
+columns,14
+start,2010-01-01 00:00:00
+end,2014-12-31 23:00:00
+duplicate_datetime,0
+missing_timestamps,0
+pm25_missing,2067
+pm25_missing_pct,4.716593647316539
