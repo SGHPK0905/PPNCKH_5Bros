@@ -1,0 +1,9 @@
+metric,value
+total_rows_in_raw_csv,43824
+duplicate_entire_rows,0
+invalid_timestamps,0
+duplicate_timestamps,0
+unique_valid_timestamps,43824
+expected_hourly_timestamps_in_range,43824
+missing_hour_timestamps,0
+missing_pm2.5_count,2067
